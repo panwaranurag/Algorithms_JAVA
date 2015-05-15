@@ -17,10 +17,6 @@ public class Question {
 		char[] test = {'A', 'N', 'U', 'R', 'A', 'G', '\0'};
 		reverse(test);
 		System.out.println(test);
-		check();
-	}
-	public static void check(){
-		System.out.println("Nitish is cool guy!!!");
 	}
 
 }
